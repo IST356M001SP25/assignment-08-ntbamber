@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Noah Bamberger
+Sudent Email:  ntbamber@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+This assignment helped me to get more practice with ETL pipelines. It was helpful to practice filtering, grouping, and reshaping a dataset. I struggled with implementing color on my map, but I ended up figuring out with help from copilot and I chose to use the Viridis color palette due to it being more accessible to colorblind people. I need to practice more with mapping and folium.
